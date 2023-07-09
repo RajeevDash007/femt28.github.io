@@ -1,4 +1,23 @@
+
+
+h1 {
+    text-align: center;
+}
+
+a {
+    color:bisque;
+}
+a:hover {
+    color: rgb(8, 223, 8)
+}
+
 body {
-    background-color: bisque;
-    color: darkgrey;
+    background-color: rgb(29, 28, 28);
+    color: rgb(206, 205, 205);
+}
+
+.footer {
+  display: inline-block;
+  width: 200px;
+  height: 300px;
 }
